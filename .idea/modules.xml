@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaoyanVedio.iml" filepath="$PROJECT_DIR$/MaoyanVedio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" filepath="$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StickyListHeaders_library/StickyListHeaders_library.iml" filepath="$PROJECT_DIR$/StickyListHeaders_library/StickyListHeaders_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XRefreshView_library/XRefreshView_library.iml" filepath="$PROJECT_DIR$/XRefreshView_library/XRefreshView_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alipay_demo/alipay_demo.iml" filepath="$PROJECT_DIR$/alipay_demo/alipay_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo标准版/recyclerviewdemo标准版.iml" filepath="$PROJECT_DIR$/recyclerviewdemo标准版/recyclerviewdemo标准版.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" filepath="$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils_lib/xutils_lib.iml" filepath="$PROJECT_DIR$/xutils_lib/xutils_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多级联动view/多级联动view.iml" filepath="$PROJECT_DIR$/多级联动view/多级联动view.iml" />
+    </modules>
+  </component>
+</project>

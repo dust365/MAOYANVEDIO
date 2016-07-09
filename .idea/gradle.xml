@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/PullToRefresh_library" />
+            <option value="$PROJECT_DIR$/StickyListHeaders_library" />
+            <option value="$PROJECT_DIR$/XRefreshView_library" />
+            <option value="$PROJECT_DIR$/alipay_demo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo标准版" />
+            <option value="$PROJECT_DIR$/sample-okhttp" />
+            <option value="$PROJECT_DIR$/vitamio" />
+            <option value="$PROJECT_DIR$/xutils_lib" />
+            <option value="$PROJECT_DIR$/多级联动view" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
